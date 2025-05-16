@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Qdrant data (if you mount a local folder)
+qdrant_data/
+
+# Editor files
+*.swp
+.vscode/

@@ -1,0 +1,6 @@
+crewai
+chonkie
+deepeval
+qdrant-client
+sentence-transformers
+openai
